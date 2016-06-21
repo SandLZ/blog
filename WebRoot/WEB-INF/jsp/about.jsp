@@ -18,8 +18,8 @@
 <body>
 <div class="ibody">
   <header>
-    <h1>如影随形</h1>
-    <h2>影子是一个会撒谎的精灵，它在虚空中流浪和等待被发现之间;在存在与不存在之间....</h2>
+    <h1>啦啦啦</h1>
+    <h2>影子存在之间....</h2>
     <div class="logo"><a href="../index/index"></a></div>
   <%@ include file="nav.jsp" %> 
    </header>
